@@ -1,0 +1,1 @@
+DIR-this command is used to see the present files in diror folder thorugh cmd
